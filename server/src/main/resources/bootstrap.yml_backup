@@ -1,0 +1,23 @@
+spring:
+  cloud:
+    config:
+      fail-fast: true  # true, halt the server if configuration not found
+      uri: ${config-server-uri:https://eshop-config-server.uat.intra.eshop.yo-digital.com}
+      label: ${config-branch:release}  # git branch used to get configuration
+      enabled: true
+      common-config-label: release
+      others:
+        enabled: true #flag to enable or disable common cloud config fetch
+      otherConfigs:
+      - oneshop-configs #specify the name of common repo. it support Set<String>. git label specified above will be used
+
+
+  profiles:
+    active: ${active-profile:uat}
+
+  application:
+    name: eshop
+
+  main:
+    allow-bean-definition-overriding: true
+    allow-circular-references: true

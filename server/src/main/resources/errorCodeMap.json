@@ -1,0 +1,175 @@
+{
+  "EntityAlreadyExist": {
+    "resolvedCode": "LEAD_ALREADY_EXIST",
+    "resolvedHttpStatus": "CONFLICT"
+  },
+  "F2F_INVALID_USER_CODE": {
+    "resolvedCode": "F2F_INVALID_USER_CODE",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "DT_USER_ALREADY_LOGGED_OUT": {
+    "resolvedCode": "DT_USER_ALREADY_LOGGED_OUT",
+    "resolvedHttpStatus": "UNAUTHORIZED"
+  },
+  "DT_REFRESH_TOKEN_EXPIRED": {
+    "resolvedCode": "DT_REFRESH_TOKEN_EXPIRED",
+    "resolvedHttpStatus": "UNAUTHORIZED"
+  },
+  "HISTORICAL_LEAD_FOUND": {
+    "resolvedCode": "HISTORICAL_LEAD_FOUND",
+    "resolvedHttpStatus": "OK"
+  },
+  "DT_DEVICE_TARIFF_RESTRICTION": {
+    "resolvedCode": "DT_DEVICE_TARIFF_RESTRICTION",
+    "resolvedHttpStatus": "OK"
+  },
+  "MULTI_STATUS": {
+    "resolvedCode": "MULTI_STATUS",
+    "resolvedHttpStatus": "BAD_REQUEST"
+  },
+  "DT_NEGATIVE_PRICE": {
+    "resolvedCode": "DT_NEGATIVE_PRICE",
+    "resolvedHttpStatus": "OK"
+  },
+  "NO_CART_AVAILABLE": {
+    "resolvedCode": "DT_NO_CART_AVAILABLE",
+    "resolvedHttpStatus": "INTERNAL_SERVER_ERROR"
+  },
+  "USER_NOT_LOGGED_IN": {
+    "resolvedCode": "USER_NOT_LOGGED_IN",
+    "resolvedHttpStatus": "UNAUTHORIZED"
+  },
+  "AUTH-LOCKED": {
+    "resolvedCode": "AUTH-LOCKED",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "DT_BUNDLING_RESTRICTION": {
+    "resolvedCode": "DT_BUNDLING_RESTRICTION",
+    "resolvedHttpStatus": "OK"
+  },
+  "PIN-ERR":{
+    "resolvedCode": "PIN-ERR",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "hal.validation.format.pin":{
+    "resolvedCode": "hal.validation.format.pin",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "hal.validation.format.otp":{
+    "resolvedCode": "hal.validation.format.otp",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "hal.security.authentication.credentials":{
+    "resolvedCode": "hal.security.authentication.credentials",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "hal.business.eligibility.incorrectPin":{
+    "resolvedCode": "hal.validation.format.otp",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "INVALID_GENDER_SELECTED":{
+    "resolvedCode": "BAD_REQUEST",
+    "resolvedHttpStatus": "BAD_REQUEST"
+  },
+  "AUTH-SNF": {
+    "resolvedCode": "AUTH-SNF",
+    "resolvedHttpStatus": "BAD_REQUEST"
+  },
+  "NOT_FOUND": {
+    "resolvedCode": "NOT_FOUND",
+    "resolvedHttpStatus": "NOT_FOUND"
+  },
+  "APP-OLD": {
+    "resolvedCode": "AUTH-LOCKED",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "APP-TWOSTEP": {
+    "resolvedCode": "APP-TWOSTEP",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "FRAUD": {
+    "resolvedCode": "FRAUD",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "INFOLINE": {
+    "resolvedCode": "INFOLINE",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "MULTIPHONE": {
+    "resolvedCode": "MULTIPHONE",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "AUTH-B2B": {
+    "resolvedCode": "AUTH-B2B",
+    "resolvedHttpStatus": "FORBIDDEN"
+  },
+  "DT_SSO_LOGIN_FAILED": {
+    "resolvedCode": "DT_SSO_LOGIN_FAILED",
+    "resolvedHttpStatus": "BAD_REQUEST"
+  },
+  "DT_INVALID_PRODUCT_CONFIG": {
+    "resolvedCode": "DT_INVALID_PRODUCT_CONFIG",
+    "resolvedHttpStatus": "INTERNAL_SERVER_ERROR"
+  },
+    "0140-0003": {
+    "resolvedCode": "0140-0003",
+    "resolvedHttpStatus": "BAD_REQUEST"
+  },
+  "DT_UNAUTHORIZED_ORDER_SUBMISSION": {
+    "resolvedCode": "DT_UNAUTHORIZED_ORDER_SUBMISSION",
+    "resolvedHttpStatus": "CONFLICT"
+  },
+  "TARIFF_CAN_NOT_BE_CHANGED": {
+    "resolvedCode": "TARIFF_CAN_NOT_BE_CHANGED",
+    "resolvedHttpStatus": "OK"
+  },
+  "hal.business.tariff_can_not_be_changed": {
+    "resolvedCode": "hal.business.tariff_can_not_be_changed",
+    "resolvedHttpStatus": "OK"
+  },
+  "DT_INVALID_COUPON_CODE": {
+    "resolvedCode": "DT_INVALID_COUPON_CODE",
+    "resolvedHttpStatus": "OK",
+    "enableDebugMessage": true
+  },
+  "MAX_QUANTITY_REACHED": {
+    "resolvedCode": "MAX_QUANTITY_REACHED",
+    "resolvedHttpStatus": "OK"
+  },
+  "ITEM_OUT_OF_STOCK": {
+    "resolvedCode": "ITEM_OUT_OF_STOCK",
+    "resolvedHttpStatus": "OK"
+  },
+  "VAS_ALREADY_LINKED": {
+    "resolvedCode": "VAS_ALREADY_LINKED",
+    "resolvedHttpStatus": "OK"
+  },
+    "0310-0006": {
+    "resolvedCode": "0140-0003",
+    "resolvedHttpStatus": "BAD_REQUEST"
+  },
+  "MNP_CARTITEM_ALREADY_EXIST": {
+    "resolvedCode": "MNP_CARTITEM_ALREADY_EXIST",
+    "resolvedHttpStatus": "OK"
+  },
+  "CATEGORY_MISMATCH": {
+    "resolvedCode": "CATEGORY_MISMATCH",
+    "resolvedHttpStatus": "NOT_FOUND"
+  },
+    "HW_SOLO_MAX_QUANTITY_REACHED": {
+        "resolvedCode": "HW_SOLO_MAX_QUANTITY_REACHED",
+        "resolvedHttpStatus": "OK"
+    },
+    "HW_SOLO_MAX_QUANTITY_REACHED_FOR_SPECIFIC_ITEM": {
+        "resolvedCode": "HW_SOLO_MAX_QUANTITY_REACHED_FOR_SPECIFIC_ITEM",
+        "resolvedHttpStatus": "OK"
+    },
+  "MAX_INSTALLMENT_QUANTITY_REACHED": {
+    "resolvedCode": "MAX_INSTALLMENT_QUANTITY_REACHED",
+    "resolvedHttpStatus": "OK"
+  },
+  "HARDWARE_SOLO_INSTALLMENT_RESTRICTION_REACHED": {
+    "resolvedCode" :"HARDWARE_SOLO_INSTALLMENT_RESTRICTION_REACHED",
+    "resolvedHttpStatus": "OK"
+  }
+}

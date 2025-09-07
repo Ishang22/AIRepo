@@ -1,0 +1,871 @@
+{
+  "id": "688d043c54fdfa325cae860e",
+  "totalItems": 1,
+  "existingItems": [],
+  "cartLineItems": [
+    {
+      "showQuantityStepper": false,
+      "quantity": 1,
+      "maxQuantityAllowed": 1,
+      "cartItems": [
+        {
+          "id": "3f2cfd2acd9e4150b768996e5db3fe26",
+          "group": "TARIFF",
+          "businessGroup": "TARIFF",
+          "associatedBusinessGroups": [],
+          "associatedBusinessProcesses": [],
+          "isModifiable": true,
+          "quantity": 1,
+          "product": {
+            "id": "MF_17496",
+            "specId": "MF_17496",
+            "name": "MagentaMobil M",
+            "variantName": "MagentaMobil M",
+            "displayName": "MagentaMobil M",
+            "tariffLoyaltyLabel": "24 Monate Vertragslaufzeit",
+            "description": "<strong>Aktion: </strong>Als Neukunde <strong>240 € Cashback</strong> sichern[tr:info:120-€-Wechselbonus-ldnqMP]<div><br /><strong>Internet</strong><ul style=\"list-style-type: disc; margin-left: 14px;\"><li>50 GB Highspeed-Volumen (mit LTE Max/5G)</li><li>Mit einer Pluskarte zu 19,95 € monatlich: deutschlandweit unbegrenztes Datenvolumen für den Hauptvertrag und alle Pluskarten</li><li>Geschwindigkeit im Download: bis zu 300 MBit/s</li><li>Geschwindigkeit im Upload: bis zu 50 MBit/s</li><li>Nach Verbrauch des Highspeed-Volumens wird die Geschwindigkeit im jeweiligen Monat auf max. 64 KBit/s (Download) und 16 KBit/s (Upload) reduziert.</li></ul>\n<div><div><br /><strong>Inklusivleistungen</strong>\n<ul style=\"list-style-type: disc; margin-left: 14px;\"><li>Telefonie- und SMS-Flat in alle deutschen Netze:<br />Telefonieren Sie unbegrenzt ins deutsche Mobilfunk- und Festnetz und versenden Sie unbegrenzt SMS.</li><li>Hotspot Flat:<br />Mit einem Telekom HotSpot in Ihrer Nähe können Sie auch unterwegs surfen, ohne dabei das eigene Datenvolumen zu verbrauchen. Mehr Infos unter <a href=\"https://www.hotspot.de\" style=\"color: #007faf;\" target=\"_blank\">www.hotspot.de</a></li><li>Roaming:<br />In der EU inkl. Schweiz & Großbritannien surfen und telefonieren Sie auf vorübergehenden Reisen ohne zusätzliche Kosten wie im Inland.</li></ul></div>\n<div><br /><strong>Tarife ohne Mindestlaufzeit</strong>\n<ul style=\"list-style-type: disc; margin-left: 14px;\"><li>Infos zu Tarifen ohne Mindestlaufzeit, die lediglich ohne Gerät erhältlich sind, finden Sie unter www.telekom.de/flex-mobil oder in der Preisliste.</li></ul></div>\n<div><br /><a class=\"c-bw-link\" href=\"https://www.telekom.de/produktinformationsblatt/magentamobil-m.pdf\" style=\"color: #007faf;\">Produktinformationsblatt (PDF)</a></div>\n<div><br /><a class=\"c-bw-link\" href=\"https://www.telekom.de/agb/direkt?AGBID=2199\" style=\"color: #007faf;\">Preisliste, Leistungsbeschreibung und AGB</a></div></div></div>",
+            "shortDescription": "50 GB | bis zu 300/50 MBit/s im Down-/Upload | Für Neukunden: 240 € Cashback[tr:info:120-€-Wechselbonus-ldnqMP]",
+            "productGroupId": "MF_17496",
+            "categoryId": "MOBILEPOSTPAID",
+            "categoryName": "MOBILEPOSTPAID",
+            "categorySlug": "mapi-mobilepostpaid",
+            "characteristic": [
+              {
+                "name": "selectedProductOfferingTerm",
+                "value": "24 Monate Vertragslaufzeit",
+                "exactValue": "agreement24",
+                "nameLabel": "Vertragslaufzeit"
+              },
+              {
+                "name": "productInformationSheet",
+                "value": "https://www.telekom.de/produktinformationsblatt/magentamobil-m.pdf",
+                "nameLabel": "sheet link download"
+              },
+              {
+                "name": "subLevel",
+                "value": "eco",
+                "nameLabel": "subLevel"
+              },
+              {
+                "name": "familyCardEligible",
+                "value": "true",
+                "nameLabel": "familyCardEligible"
+              },
+              {
+                "name": "svGroup",
+                "value": "m",
+                "nameLabel": "svGroup"
+              },
+              {
+                "name": "unlimitedDataShortDescription",
+                "value": "50 GB | mit PlusKarte zu 19,95 € mtl. deutschlandweit unbegrenztes Datenvolumen | bis zu 300/50 MBit/s im Down-/Upload | Für Neukunden: 240 € Cashback[tr:info:120-€-Wechselbonus-ldnqMP]",
+                "nameLabel": "unlimitedDataShortDescription"
+              },
+              {
+                "name": "cardGroup",
+                "value": "NMMAIN",
+                "nameLabel": "cardGroup"
+              },
+              {
+                "name": "cardType",
+                "value": "adult",
+                "nameLabel": "cardType"
+              },
+              {
+                "name": "unlimitedDataUnlockable",
+                "value": "true",
+                "nameLabel": "unlimitedDataUnlockable"
+              },
+              {
+                "name": "unlimitedDataUnlockableCounter",
+                "value": "1",
+                "nameLabel": "unlimitedDataUnlockableCounter"
+              },
+              {
+                "name": "eSIM",
+                "value": "true",
+                "exactValue": "true",
+                "nameLabel": "eSIM Eligible"
+              },
+              {
+                "name": "additionalMarketingInfo",
+                "value": "true",
+                "exactValue": "Empfehlung",
+                "nameLabel": "additionalMarketingInfo"
+              }
+            ],
+            "productCategories": [
+              {
+                "id": "smartphone-tarife",
+                "name": "Smartphone-Tarife",
+                "slug": "smartphone-tarife",
+                "entityType": "PresentationCategory"
+              }
+            ],
+            "agreementValue": "agreement24"
+          },
+          "action": "add",
+          "status": "valid",
+          "totalPrice": [
+            {
+              "totalPrice": 0.0,
+              "price": 0.0,
+              "priceConfiguredInCatalog": false,
+              "displayValue": 0.0,
+              "displayValueWithoutAddon": 0.0,
+              "displayValueWithoutAddonExcludingDiscount": 0.0,
+              "singleUnitPrice": 0.0,
+              "singleUnitPriceWithoutDiscount": 0.0,
+              "currency": "EUR",
+              "priceType": "upfrontPrice",
+              "priceAlterations": [
+                {
+                  "priceType": "discount",
+                  "price": 0.0,
+                  "silentAlteration": false
+                }
+              ],
+              "totalPriceWithoutAddon": 0.0,
+              "characteristics": []
+            },
+            {
+              "totalPrice": 49.95,
+              "price": 49.95,
+              "priceConfiguredInCatalog": true,
+              "displayValue": 49.95,
+              "displayValueWithoutAddon": 49.95,
+              "displayValueWithoutAddonExcludingDiscount": 49.95,
+              "singleUnitPrice": 49.95,
+              "singleUnitPriceWithoutDiscount": 49.95,
+              "currency": "EUR",
+              "priceType": "recurringFee",
+              "recurringChargePeriod": "month",
+              "recurringChargeLabel": "Monatlich",
+              "recurringChargeDuration": 1,
+              "recurringChargeOccurrence": -1,
+              "priceAlterations": [
+                {
+                  "priceType": "discount",
+                  "price": 0.0,
+                  "silentAlteration": false
+                }
+              ],
+              "duration": {
+                "timePeriod": -1,
+                "type": "month"
+              },
+              "totalDiscount": 0.0,
+              "totalPriceWithoutAddon": 49.95,
+              "characteristics": [
+                {
+                  "name": "priceLabel",
+                  "characteristicValues": [
+                    {
+                      "value": "Monatlich"
+                    }
+                  ]
+                },
+                {
+                  "name": "externalID",
+                  "characteristicValues": [
+                    {
+                      "value": "O-1573778,NK,INK_WK_ALL,9900299999995,1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "totalPrice": 39.95,
+              "price": 39.95,
+              "priceConfiguredInCatalog": true,
+              "displayValue": 39.95,
+              "displayValueWithoutAddon": 39.95,
+              "displayValueWithoutAddonExcludingDiscount": 39.95,
+              "singleUnitPrice": 39.95,
+              "singleUnitPriceWithoutDiscount": 39.95,
+              "currency": "EUR",
+              "priceType": "activationFee",
+              "discountActivationFee": true,
+              "totalDiscount": 0.0,
+              "totalPriceWithoutAddon": 39.95,
+              "characteristics": [
+                {
+                  "name": "externalID",
+                  "characteristicValues": [
+                    {
+                      "value": "O-1573778,NK,INK_WK_ALL,9900299999995,1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "itemPrice": [
+            {
+              "totalPrice": 49.95,
+              "price": 49.95,
+              "displayValue": 49.95,
+              "currency": "EUR",
+              "priceType": "recurringFee",
+              "recurringChargePeriod": "month",
+              "recurringChargeDuration": 1,
+              "duration": {
+                "timePeriod": -1,
+                "type": "month"
+              },
+              "characteristics": [
+                {
+                  "name": "priceLabel",
+                  "characteristicValues": [
+                    {
+                      "value": "Monatlich"
+                    }
+                  ]
+                },
+                {
+                  "name": "externalID",
+                  "characteristicValues": [
+                    {
+                      "value": "O-1573778,NK,INK_WK_ALL,9900299999995,1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "totalPrice": 39.95,
+              "price": 39.95,
+              "priceConfiguredInCatalog": true,
+              "displayValue": 39.95,
+              "currency": "EUR",
+              "priceType": "activationFee",
+              "discountActivationFee": true,
+              "characteristics": [
+                {
+                  "name": "externalID",
+                  "characteristicValues": [
+                    {
+                      "value": "O-1573778,NK,INK_WK_ALL,9900299999995,1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "cartItems": [
+            {
+              "id": "ddd2256cd0964e7aa07a906c4f1ab85a",
+              "group": "addon",
+              "businessGroup": "ADDON",
+              "associatedBusinessGroups": [],
+              "associatedBusinessProcesses": [],
+              "isModifiable": true,
+              "quantity": 1,
+              "product": {
+                "id": "MF_WNWPRO1554",
+                "specId": "MF_WNWPRO1554",
+                "name": "Datenflat M unlimited 5G (4.0)",
+                "variantName": "Datenflat M unlimited 5G (4.0)",
+                "displayName": "Datenflat M unlimited 5G (4.0)",
+                "description": "",
+                "shortDescription": "",
+                "productGroupId": "MF_WNWPRO1554",
+                "categoryId": "MOBILECRMADDON",
+                "categoryName": "MOBILECRMADDON",
+                "categorySlug": "mobilecrmaddon",
+                "characteristic": [],
+                "productCategories": [
+                  {
+                    "id": "dataBenefit",
+                    "name": "dataBenefit",
+                    "slug": "",
+                    "entityType": "Category"
+                  }
+                ]
+              },
+              "action": "add",
+              "status": "valid",
+              "totalPrice": [
+                {
+                  "totalPrice": 0.0,
+                  "price": 0.0,
+                  "priceConfiguredInCatalog": false,
+                  "displayValue": 0.0,
+                  "currency": "EUR",
+                  "priceType": "upfrontPrice",
+                  "priceAlterations": [
+                    {
+                      "priceType": "discount",
+                      "price": 0.0,
+                      "silentAlteration": false
+                    }
+                  ],
+                  "characteristics": []
+                },
+                {
+                  "totalPrice": 0.0,
+                  "price": 0.0,
+                  "priceConfiguredInCatalog": true,
+                  "displayValue": 0.0,
+                  "currency": "EUR",
+                  "priceType": "recurringFee",
+                  "recurringChargePeriod": "month",
+                  "recurringChargeDuration": 1,
+                  "recurringChargeOccurrence": -1,
+                  "priceAlterations": [
+                    {
+                      "priceType": "discount",
+                      "price": 0.0,
+                      "silentAlteration": false
+                    }
+                  ],
+                  "duration": {
+                    "timePeriod": -1,
+                    "type": "month"
+                  },
+                  "totalDiscount": 0.0,
+                  "characteristics": []
+                }
+              ],
+              "itemPrice": [
+                {
+                  "totalPrice": 0.0,
+                  "price": 0.0,
+                  "displayValue": 0.0,
+                  "currency": "EUR",
+                  "priceType": "recurringFee",
+                  "recurringChargePeriod": "month",
+                  "recurringChargeDuration": 1,
+                  "duration": {
+                    "timePeriod": -1,
+                    "type": "month"
+                  },
+                  "characteristics": []
+                }
+              ],
+              "cartTerms": [
+                {
+                  "duration": {
+                    "timePeriod": -1,
+                    "type": "month"
+                  }
+                }
+              ],
+              "prices": [
+                {
+                  "priceType": "recurringFee",
+                  "actualValue": 0.0,
+                  "discountedValue": 0.0,
+                  "displayValue": 0.0,
+                  "totalDiscount": 0.0,
+                  "currency": "EUR",
+                  "recurringChargePeriod": "month",
+                  "recurringChargeOccurrence": -1,
+                  "recurringChargeDuration": 1,
+                  "name": "regularPrice",
+                  "id": "MF_WNWPRO1554_PRICE",
+                  "unitOfMeasure": {},
+                  "characteristics": [],
+                  "defaultBasePrice": false
+                }
+              ],
+              "isCartItemScaledPriced": false,
+              "isOptionalItem": true,
+              "isOptionalCartItem": true,
+              "usagePrice": {
+                "unitOfMeasure": {
+                  "unit": "GB",
+                  "amount": -1
+                }
+              },
+              "extraOnTopAttached": false,
+              "eligibleForExtraOnTop": false
+            }
+          ],
+          "cartTerms": [
+            {
+              "duration": {
+                "timePeriod": -1,
+                "type": "month"
+              }
+            }
+          ],
+          "prices": [
+            {
+              "priceType": "activationFee",
+              "actualValue": 39.95,
+              "discountedValue": 39.95,
+              "displayValue": 39.95,
+              "totalDiscount": 0.0,
+              "discounts": [],
+              "currency": "EUR",
+              "name": "oneTimeTariffFee",
+              "id": "MF_17496-OTC-Price",
+              "isDynamicPrice": false,
+              "priceConditions": [],
+              "characteristics": [
+                {
+                  "name": "externalID",
+                  "label": "externalID",
+                  "valueType": "text",
+                  "isCustomerVisible": true,
+                  "currencyCode": "",
+                  "configurable": false,
+                  "minCardinality": 1,
+                  "maxCardinality": 1,
+                  "entityType": "configuration",
+                  "characteristicValues": [
+                    {
+                      "label": "O-1573778,NK,INK_WK_ALL,9900299999995,1",
+                      "isDefault": false,
+                      "value": "externalID"
+                    }
+                  ],
+                  "validationRules": []
+                }
+              ],
+              "defaultBasePrice": false
+            },
+            {
+              "priceType": "recurringFee",
+              "actualValue": 49.95,
+              "discountedValue": 49.95,
+              "displayValue": 49.95,
+              "totalDiscount": 0.0,
+              "discounts": [],
+              "currency": "EUR",
+              "recurringChargePeriod": "month",
+              "recurringChargeOccurrence": -1,
+              "recurringChargeLabel": "Monatlich",
+              "recurringChargeDuration": 1,
+              "name": "monthlyTariffFee",
+              "id": "MF_17496-MRC-Price",
+              "isDynamicPrice": false,
+              "priceConditions": [],
+              "characteristics": [
+                {
+                  "name": "externalID",
+                  "label": "externalID",
+                  "valueType": "text",
+                  "isCustomerVisible": true,
+                  "currencyCode": "",
+                  "configurable": false,
+                  "minCardinality": 1,
+                  "maxCardinality": 1,
+                  "entityType": "configuration",
+                  "characteristicValues": [
+                    {
+                      "label": "O-1573778,NK,INK_WK_ALL,9900299999995,1",
+                      "isDefault": false,
+                      "value": "externalID"
+                    }
+                  ],
+                  "validationRules": []
+                }
+              ],
+              "defaultBasePrice": false
+            }
+          ],
+          "addons": {
+            "telefonie_sms": {
+              "categoryName": "Telefonie und SMS",
+              "displayOrder": 2,
+              "cartItems": [
+                {
+                  "group": "addon",
+                  "product": {
+                    "variantName": "Flat in alle deutschen Netze"
+                  },
+                  "extraOnTopAttached": false,
+                  "eligibleForExtraOnTop": false
+                }
+              ]
+            },
+            "MOBILECRMADDON": {
+              "categoryName": "MOBILECRMADDON",
+              "displayOrder": 100000,
+              "cartItems": [
+                {
+                  "id": "ddd2256cd0964e7aa07a906c4f1ab85a",
+                  "group": "addon",
+                  "businessGroup": "ADDON",
+                  "associatedBusinessGroups": [],
+                  "associatedBusinessProcesses": [],
+                  "isModifiable": true,
+                  "quantity": 1,
+                  "product": {
+                    "id": "MF_WNWPRO1554",
+                    "specId": "MF_WNWPRO1554",
+                    "name": "Datenflat M unlimited 5G (4.0)",
+                    "variantName": "Datenflat M unlimited 5G (4.0)",
+                    "displayName": "Datenflat M unlimited 5G (4.0)",
+                    "description": "",
+                    "shortDescription": "",
+                    "productGroupId": "MF_WNWPRO1554",
+                    "categoryId": "MOBILECRMADDON",
+                    "categoryName": "MOBILECRMADDON",
+                    "categorySlug": "mobilecrmaddon",
+                    "characteristic": [],
+                    "productCategories": [
+                      {
+                        "id": "dataBenefit",
+                        "name": "dataBenefit",
+                        "slug": "",
+                        "entityType": "Category"
+                      }
+                    ]
+                  },
+                  "action": "add",
+                  "status": "valid",
+                  "totalPrice": [
+                    {
+                      "totalPrice": 0.0,
+                      "price": 0.0,
+                      "priceConfiguredInCatalog": false,
+                      "displayValue": 0.0,
+                      "currency": "EUR",
+                      "priceType": "upfrontPrice",
+                      "priceAlterations": [
+                        {
+                          "priceType": "discount",
+                          "price": 0.0,
+                          "silentAlteration": false
+                        }
+                      ],
+                      "characteristics": []
+                    },
+                    {
+                      "totalPrice": 0.0,
+                      "price": 0.0,
+                      "priceConfiguredInCatalog": true,
+                      "displayValue": 0.0,
+                      "currency": "EUR",
+                      "priceType": "recurringFee",
+                      "recurringChargePeriod": "month",
+                      "recurringChargeDuration": 1,
+                      "recurringChargeOccurrence": -1,
+                      "priceAlterations": [
+                        {
+                          "priceType": "discount",
+                          "price": 0.0,
+                          "silentAlteration": false
+                        }
+                      ],
+                      "duration": {
+                        "timePeriod": -1,
+                        "type": "month"
+                      },
+                      "totalDiscount": 0.0,
+                      "characteristics": []
+                    }
+                  ],
+                  "itemPrice": [
+                    {
+                      "totalPrice": 0.0,
+                      "price": 0.0,
+                      "displayValue": 0.0,
+                      "currency": "EUR",
+                      "priceType": "recurringFee",
+                      "recurringChargePeriod": "month",
+                      "recurringChargeDuration": 1,
+                      "duration": {
+                        "timePeriod": -1,
+                        "type": "month"
+                      },
+                      "characteristics": []
+                    }
+                  ],
+                  "cartTerms": [
+                    {
+                      "duration": {
+                        "timePeriod": -1,
+                        "type": "month"
+                      }
+                    }
+                  ],
+                  "prices": [
+                    {
+                      "priceType": "recurringFee",
+                      "actualValue": 0.0,
+                      "discountedValue": 0.0,
+                      "displayValue": 0.0,
+                      "totalDiscount": 0.0,
+                      "currency": "EUR",
+                      "recurringChargePeriod": "month",
+                      "recurringChargeOccurrence": -1,
+                      "recurringChargeDuration": 1,
+                      "name": "regularPrice",
+                      "id": "MF_WNWPRO1554_PRICE",
+                      "unitOfMeasure": {},
+                      "characteristics": [],
+                      "defaultBasePrice": false
+                    }
+                  ],
+                  "isCartItemScaledPriced": false,
+                  "isOptionalItem": true,
+                  "isOptionalCartItem": true,
+                  "usagePrice": {
+                    "unitOfMeasure": {
+                      "unit": "GB",
+                      "amount": -1
+                    }
+                  },
+                  "extraOnTopAttached": false,
+                  "eligibleForExtraOnTop": false
+                }
+              ]
+            },
+            "Data": {
+              "categoryName": "Datenvolumen ",
+              "displayOrder": 100000,
+              "cartItems": [
+                {
+                  "group": "addon",
+                  "product": {
+                    "variantName": "data"
+                  },
+                  "extraOnTopAttached": false,
+                  "eligibleForExtraOnTop": false
+                }
+              ]
+            },
+            "dataBenefit": {
+              "categoryName": "dataBenefit",
+              "displayOrder": 100000,
+              "cartItems": [
+                {
+                  "id": "ddd2256cd0964e7aa07a906c4f1ab85a",
+                  "group": "addon",
+                  "businessGroup": "ADDON",
+                  "associatedBusinessGroups": [],
+                  "associatedBusinessProcesses": [],
+                  "isModifiable": true,
+                  "quantity": 1,
+                  "product": {
+                    "id": "MF_WNWPRO1554",
+                    "specId": "MF_WNWPRO1554",
+                    "name": "Datenflat M unlimited 5G (4.0)",
+                    "variantName": "Datenflat M unlimited 5G (4.0)",
+                    "displayName": "Datenflat M unlimited 5G (4.0)",
+                    "description": "",
+                    "shortDescription": "",
+                    "productGroupId": "MF_WNWPRO1554",
+                    "categoryId": "MOBILECRMADDON",
+                    "categoryName": "MOBILECRMADDON",
+                    "categorySlug": "mobilecrmaddon",
+                    "characteristic": [],
+                    "productCategories": [
+                      {
+                        "id": "dataBenefit",
+                        "name": "dataBenefit",
+                        "slug": "",
+                        "entityType": "Category"
+                      }
+                    ]
+                  },
+                  "action": "add",
+                  "status": "valid",
+                  "totalPrice": [
+                    {
+                      "totalPrice": 0.0,
+                      "price": 0.0,
+                      "priceConfiguredInCatalog": false,
+                      "displayValue": 0.0,
+                      "currency": "EUR",
+                      "priceType": "upfrontPrice",
+                      "priceAlterations": [
+                        {
+                          "priceType": "discount",
+                          "price": 0.0,
+                          "silentAlteration": false
+                        }
+                      ],
+                      "characteristics": []
+                    },
+                    {
+                      "totalPrice": 0.0,
+                      "price": 0.0,
+                      "priceConfiguredInCatalog": true,
+                      "displayValue": 0.0,
+                      "currency": "EUR",
+                      "priceType": "recurringFee",
+                      "recurringChargePeriod": "month",
+                      "recurringChargeDuration": 1,
+                      "recurringChargeOccurrence": -1,
+                      "priceAlterations": [
+                        {
+                          "priceType": "discount",
+                          "price": 0.0,
+                          "silentAlteration": false
+                        }
+                      ],
+                      "duration": {
+                        "timePeriod": -1,
+                        "type": "month"
+                      },
+                      "totalDiscount": 0.0,
+                      "characteristics": []
+                    }
+                  ],
+                  "itemPrice": [
+                    {
+                      "totalPrice": 0.0,
+                      "price": 0.0,
+                      "displayValue": 0.0,
+                      "currency": "EUR",
+                      "priceType": "recurringFee",
+                      "recurringChargePeriod": "month",
+                      "recurringChargeDuration": 1,
+                      "duration": {
+                        "timePeriod": -1,
+                        "type": "month"
+                      },
+                      "characteristics": []
+                    }
+                  ],
+                  "cartTerms": [
+                    {
+                      "duration": {
+                        "timePeriod": -1,
+                        "type": "month"
+                      }
+                    }
+                  ],
+                  "prices": [
+                    {
+                      "priceType": "recurringFee",
+                      "actualValue": 0.0,
+                      "discountedValue": 0.0,
+                      "displayValue": 0.0,
+                      "totalDiscount": 0.0,
+                      "currency": "EUR",
+                      "recurringChargePeriod": "month",
+                      "recurringChargeOccurrence": -1,
+                      "recurringChargeDuration": 1,
+                      "name": "regularPrice",
+                      "id": "MF_WNWPRO1554_PRICE",
+                      "unitOfMeasure": {},
+                      "characteristics": [],
+                      "defaultBasePrice": false
+                    }
+                  ],
+                  "isCartItemScaledPriced": false,
+                  "isOptionalItem": true,
+                  "isOptionalCartItem": true,
+                  "usagePrice": {
+                    "unitOfMeasure": {
+                      "unit": "GB",
+                      "amount": -1
+                    }
+                  },
+                  "extraOnTopAttached": false,
+                  "eligibleForExtraOnTop": false
+                }
+              ]
+            },
+            "DataVolumePostpaid5GLTE": {
+              "categoryName": "Highspeed-Volumen mit LTE und 5G",
+              "displayOrder": 1,
+              "cartItems": [
+                {
+                  "group": "addon",
+                  "product": {
+                    "variantName": "50 GB"
+                  },
+                  "extraOnTopAttached": false,
+                  "eligibleForExtraOnTop": false
+                }
+              ]
+            }
+          },
+          "esimEligible": true,
+          "familyCardType": "MAIN_CARD",
+          "isCartItemScaledPriced": false,
+          "extraOnTopAttached": false,
+          "eligibleForExtraOnTop": false
+        }
+      ],
+      "bundlePrice": {
+        "upfrontPrice": 0.0,
+        "recurringPrice": 0.0
+      },
+      "bundledCart": false,
+      "extraOnTopAttached": false,
+      "eligibleForExtraOnTop": false,
+      "businessInteraction": "acquisition",
+      "existingService": {},
+      "isOTTCartLineItem": false,
+      "relationshipId": "3f2cfd2acd9e4150b768996e5db3fe26",
+      "deviceOnly": false
+    }
+  ],
+  "cartSummary": [
+    {
+      "totalPrice": 0.0,
+      "price": 0.0,
+      "displayValue": 0.0,
+      "currency": "EUR",
+      "priceType": "upfrontPrice",
+      "taxIncludedTotalPrice": 0.0
+    },
+    {
+      "totalPrice": 49.95,
+      "price": 49.95,
+      "displayValue": 49.95,
+      "currency": "EUR",
+      "priceType": "recurringFee",
+      "recurringChargePeriod": "month",
+      "recurringChargeLabel": "Monatlich",
+      "recurringChargeDuration": 1,
+      "recurringChargeOccurrence": -1,
+      "recurringChargeStartShift": 0,
+      "priceAlterations": [
+        {
+          "priceType": "discount",
+          "silentAlteration": false,
+          "subPriceAlterations": []
+        }
+      ]
+    },
+    {
+      "totalPrice": 39.95,
+      "price": 39.95,
+      "displayValue": 39.95,
+      "currency": "EUR",
+      "priceType": "activationFee",
+      "priceByCartItems": []
+    }
+  ],
+  "status": "Active",
+  "priceChanged": "DECREASED",
+  "swapEligible": false,
+  "swapRequest": false,
+  "couponCodeValid": false,
+  "totalDiscount": 0.0,
+  "applyBusinessInteraction": false,
+  "voucherVisibility": false,
+  "totalCredits": 0.0,
+  "preSalesFlowCartSwap": false,
+  "hideMagentaBenefitToggle": false,
+  "nextMagentaFamily": {
+    "nextMagentaFamilyEnabled": true,
+    "counter": 1,
+    "youngCounter": 0,
+    "familyDeviceCategoryId": "page-1667",
+    "portfolioTariffCategoryId": "smartphone-tarife",
+    "portfolioTariffCategorySlug": "smartphone-tarife",
+    "portfolioTariffLoyaltyEligible": "false",
+    "isUnlimitedDataEligible": true,
+    "isUnlimitedDataBenefitGiven": false,
+    "unlimitedDataType": "ADULT_UNLIMITED_DATA_ELIGIBLE",
+    "soloFamilyEnabled": false
+  },
+  "fixedVoucherVisibility": false,
+  "characteristics": [],
+  "deleteExistingCart": false,
+  "ottVoucherVisibility": false,
+  "magentaOneItemPresent": false,
+  "eligibleTariffMissing": false,
+  "multipleOnTopAddonEnabled": false
+}

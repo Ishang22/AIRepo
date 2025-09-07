@@ -1,0 +1,88 @@
+spring:
+  application:
+      name: server
+
+
+  main:
+    allow-bean-definition-overriding: true
+  # Enable MCP server
+  ai:
+    mcp:
+      server:
+        enabled: true
+
+  # Set server type to synchronous
+        type: SYNC
+
+  # Optional: Set server name and version
+        name: my-mcp-server
+        version: 1.0.0
+
+  # Optional: Customize SSE endpoints
+        sse-endpoint: /sse
+        sse-message-endpoint: /mcp/message
+
+  cloud:
+    config:
+      uri: "${config-server-uri:https://eshop-config-server.dev.intra.eshop.yo-digital.com}"
+      label: ${config-branch:spring3}
+  profiles:
+    active: dev
+server:
+  port: 8081
+
+
+
+  #################### Feign Client Configurations ######################
+  address: 0.0.0.0
+feign:
+  client:
+    config:
+      catalogFeignClient:
+        serviceId: catalog
+        url: "https://eshop-sales-catalog-api.uat.intra.eshop.yo-digital.com"
+        readTimeout: 60000
+        connectTimeout: 60000
+      cartFeignClient:
+        serviceId: cart
+        url: "http://eshop-shoppingcart-api.uat.intra.eshop.yo-digital.com/"
+        readTimeout: 60000
+        connectTimeout: 60000
+      syliusapiservice:
+        serviceId: syliusapiservice
+        url: "https://eshop-sales-catalog-ui.stagev4.eshop.yo-digital.com/"
+        connectTimeout: 160000000
+        readTimeout: 160000000
+
+#logging:
+#  level:
+#    root: debug
+
+
+exception:
+  errorCodeMappingSources:
+    - url: 'classpath:/errorCodeMap.json'
+      sourceType: DISK
+  cronToReloadErrorCodeMap: '0 0/1 * * * ?'
+
+
+errror:
+  mapper: HAL
+
+multi:
+  tenant:
+    resolver:
+      type: APPLICATION_BASED
+
+
+secret:
+  manager:
+    enable: true
+    awsFetchingEnabled: false
+    arn: "arn:aws:secretsmanager:eu-central-1:703911297076:secret:eshop-dev-ec1-gdc-dev-secrets-oyJmEi"
+    file: "file:/Users/ishangarg/Downloads/ISHAN_JSON.json"
+
+redis:
+  client:
+    operationMode: standalone
+    ssl-enabled: false
